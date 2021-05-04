@@ -1,4 +1,4 @@
-#Simple Electrical Circuit
+# Simple Electrical Circuit
 
 This algorithm calculates the charge on a capacitor in the circuit shown below. It is specifically designed to calculate t from 0 to 0.8 but only when q0=10, R=60, L=9, and C=0.00005. 
 
